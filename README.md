@@ -7,3 +7,7 @@
 
 ---
 [![codewars](https://www.codewars.com/users/AsTR0I/badges/large)](https://www.codewars.com/users/AsTR0I)   
+
+
+![image](https://github.com/AsTR0I/AsTR0I/assets/119848709/345305fb-fd1f-48b4-8d4a-b8f2477ef142)
+****
