@@ -31,3 +31,5 @@
 
 [![codewars](https://www.codewars.com/users/AsTR0I/badges/large)](https://www.codewars.com/users/AsTR0I)
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AsTR0I=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
