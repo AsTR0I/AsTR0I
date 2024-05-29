@@ -1,5 +1,3 @@
-# Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, меня зовут Степан!
-
 - 📫 Мой Email: **sjromanovich@gmail.com**
 
 <h3 align="left">Языки и инструменты:</h3>
